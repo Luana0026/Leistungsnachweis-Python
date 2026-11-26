@@ -1,5 +1,5 @@
 ### Leistungsnachweis-Phyton
-# Anteil HPV geimpfte Mädchen
+# Anteil HPV geimpfter Mädchen
 ## Team
 Am Projekt arbeiten
 - Alena Perren (perreale@students.zhaw.ch)
